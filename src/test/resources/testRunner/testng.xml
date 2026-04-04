@@ -10,6 +10,7 @@
 		<parameter name="browser" value="chromium"></parameter>
 		<classes>
 			<class name="com.qa.opencart.tests.HomePageTests" />
+			<class name="com.qa.opencart.tests.LoginPageTests" />
 		</classes>
 	</test>
 </suite>
